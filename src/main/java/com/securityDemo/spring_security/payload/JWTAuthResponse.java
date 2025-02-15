@@ -1,6 +1,5 @@
 package com.securityDemo.spring_security.payload;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 

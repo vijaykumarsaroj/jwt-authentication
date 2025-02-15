@@ -2,7 +2,7 @@ package com.securityDemo.spring_security.controller;
 
 import com.securityDemo.spring_security.payload.JWTAuthResponse;
 import com.securityDemo.spring_security.payload.LoginDto;
-import com.securityDemo.spring_security.repository.RegisterDto;
+import com.securityDemo.spring_security.payload.RegisterDto;
 import com.securityDemo.spring_security.service.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

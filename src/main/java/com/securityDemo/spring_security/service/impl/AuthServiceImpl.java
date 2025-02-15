@@ -2,8 +2,8 @@ package com.securityDemo.spring_security.service.impl;
 
 import com.securityDemo.spring_security.entity.Role;
 import com.securityDemo.spring_security.entity.User;
+import com.securityDemo.spring_security.payload.RegisterDto;
 import com.securityDemo.spring_security.payload.LoginDto;
-import com.securityDemo.spring_security.repository.RegisterDto;
 import com.securityDemo.spring_security.repository.RoleRepository;
 import com.securityDemo.spring_security.repository.UserRepository;
 import com.securityDemo.spring_security.security.JwtTokenProvider;

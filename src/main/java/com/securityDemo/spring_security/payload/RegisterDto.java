@@ -1,4 +1,4 @@
-package com.securityDemo.spring_security.repository;
+package com.securityDemo.spring_security.payload;
 
 import lombok.Getter;
 import lombok.Setter;
